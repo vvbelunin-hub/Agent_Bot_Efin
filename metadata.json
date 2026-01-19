@@ -1,0 +1,7 @@
+{
+  "name": "BankAgent Assistant",
+  "description": "Мобильная база знаний для агентов доставки банковских продуктов с интеграцией Google Drive.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
